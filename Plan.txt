@@ -1,3 +1,5 @@
++ Operating systems, concurrency control, unix system calls, computer networks, routing
+
 Interview Preparation : 
 - Topics
 1.Array Algorithms
