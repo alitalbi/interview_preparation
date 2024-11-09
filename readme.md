@@ -1,0 +1,117 @@
+Interview Preparation : 
+- Topics
+1.Array Algorithms
+Maximum Subarray Sum
+Find the Missing Number
+Trapping Rain Water
+Maximum Product Subarray
+Find the equilibrium index of an array
+Leaders in an array
+Minimum Platforms Required for a Railway/Bus Station
+Rotate an array to the right by k steps
+Kth smallest/largest element in an array
+Maximum Length Bitonic Subarray
+2. String Algorithm
+Problem
+Longest Palindromic Substring
+String Matching with Wildcard
+Edit Distance
+Longest Repeating Subsequence
+Count all distinct substrings of a given string
+Reverse words in a given string
+Check if a string is a rotated palindrome
+KMP Algorithm for Pattern Searching
+Minimum characters to be added at front to make string palindrome
+3. Sorting Algorithm
+Problem
+QuickSort
+MergeSort
+HeapSort
+Counting Sort
+Radix Sort
+Bubble Sort
+Selection Sort
+Insertion Sort
+Shell Sort
+Bucket Sort
+4. Searching Algorithm
+Problem
+Linear Search
+
+Binary Search
+Ternary Search
+
+Depth-First Search (DFS)
+Breadth-First Search (BFS)
+Fibonacci Search
+5. Recursion/Backtracking Algorithm
+Problem
+N-Queens Problem
+Sudoku Solver
+Rat in a Maze
+Word Break Problem using Backtracking
+Subset Sum Problem
+Permutations of a given string
+Combination Sum
+Generate all possible valid IP addresses from given string
+Rat in a Maze with multiple steps or jump allowed
+6. Greedy Algorithm
+Problem
+Fractional Knapsack
+Huffman Coding
+Job Sequencing with Deadlines
+Activity Selection Problem
+Greedy Algorithm to find Minimum number of Coins
+Minimum Number of Platforms Required for a Railway/Bus Station
+Maximum Length Chain of Pairs
+Minimize Cash Flow among a given set of friends who have borrowed money from each other
+Connect n Ropes with Minimum Cost
+Prim’s Minimum Spanning Tree (MST)
+7. Tree Algorithm
+Problem
+Lowest Common Ancestor (LCA)
+Diameter of Binary Tree
+Binary Tree Level Order Traversal
+Serialize and Deserialize a Binary Tree
+Check if a Binary Tree is BST
+Inorder Traversal without Recursion
+Convert Binary Tree to Doubly Linked List
+Check if Two Trees are Identical
+Maximum Width of a Binary Tree
+Mirror of a Binary Tree
+8. Dynamic Programming Algorithm
+Problem
+Longest Common Subsequence
+0/1 Knapsack
+Matrix Chain Multiplication
+Longest Increasing Subsequence
+Maximum Sum Increasing Subsequence
+Coin Change Problem
+Longest Palindromic Subsequence
+Edit Distance
+Largest Sum Contiguous Subarray
+Longest Common Substring
+9. Graph Algorithm
+Problem
+Dijkstra’s Algorithm
+Kruskal’s Algorithm
+Topological Sorting
+Bellman-Ford Algorithm
+Floyd Warshall Algorithm
+Prim’s Algorithm
+Depth-First Traversal of a Graph
+Breadth-First Traversal of a Graph
+Detect Cycle in a Directed Graph
+Articulation Points (or Cut Vertices) in a Graph
+10. Bit Manipulation Algorithm
+Problem
+Find the Only Non-Repeating Element
+Count Total Set Bits
+Maximum XOR of Two Numbers in an Array
+Find the two non-repeating elements in an array of repeating elements
+Check if a number is sparse or not
+Count total set bits in all numbers from 1 to n
+Maximum subarray XOR in a given array
+Sum of XOR of all subarrays
+Find the element that appears once in an array where every other element appears twice
+Program to find whether a no is power of two
